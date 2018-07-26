@@ -15,4 +15,4 @@ npm install
 npm run dev
 ```
 
-<img src="https://git1.imooc.com/Project/coding-203/src/master/wechat.jpg" width=300 height=400 />
+<img src="https://git1.imooc.com/Project/coding-203/raw/master/wechat.jpg" width=300 height=400 />
