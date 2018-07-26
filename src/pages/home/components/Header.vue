@@ -7,22 +7,16 @@
       <span class="iconfont">&#xe632;</span>
       输入城市/景点/游玩主题
     </div>
-    <router-link to='/city'>
-      <div class="header-right">
-        {{this.city}}
-        <span class="iconfont arrow-icon">&#xe64a;</span>
-      </div>
-    </router-link>
+    <div class="header-right">
+      城市
+      <span class="iconfont arrow-icon">&#xe64a;</span>
+    </div>
   </div>
 </template>
 
 <script>
-import { mapState } from 'vuex'
 export default {
-  name: 'HomeHeader',
-  computed: {
-    ...mapState(['city'])
-  }
+  name: 'HomeHeader'
 }
 </script>
 
@@ -30,7 +24,7 @@ export default {
   @import '~styles/varibles.styl'
   .header
     display: flex
-    line-height: $headerHeight
+    line-height: .86rem
     background: $bgColor
     color: #fff
     .header-left
@@ -50,11 +44,9 @@ export default {
       border-radius: .1rem
       color: #ccc
     .header-right
-      min-width: 1.04rem
-      padding: 0 .1rem
+      width: 1.24rem
       float: right
       text-align: center
-      color: #fff
       .arrow-icon
         margin-left: -.04rem
         font-size: .24rem
