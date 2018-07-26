@@ -5,7 +5,6 @@
 ## 工程启动流程
 
 ``` bash
-
 # 切换到课程章节对应的分支上（重要！）
 git checkout 分支名
 
@@ -14,7 +13,6 @@ npm install
 
 # 启动开发环境服务器
 npm run dev
-
 ```
 
-![avatar](/home/picture/1.png)
+![avatar](/wechat.jpg)
