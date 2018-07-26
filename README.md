@@ -15,4 +15,4 @@ npm install
 npm run dev
 ```
 
-![avatar](/wechat.jpg)
+![avatar](/wechat.jpg =300x400)
