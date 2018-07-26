@@ -18,6 +18,6 @@ npm run dev
 ## 常见问题汇总
 
 
-## 如果上面的解答依然无法解答你的问题，请在慕课网答疑区留言。非课程相关问题，可以通过下面的微信联系到 Dell Lee ～
+### 如果上面的解答依然无法解答你的问题，请在慕课网答疑区留言。非课程相关问题，可以通过下面的微信联系到 Dell Lee ～
 
 <img src="https://git1.imooc.com/Project/coding-203/raw/master/wechat.jpg" width=300 height=400 />
