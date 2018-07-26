@@ -1,21 +1,20 @@
-# travel
+# Vue2.5开发去哪儿网App 从零基础入门到实战项目
 
-> A Vue.js project
+> 从理论到项目，一个课程涵盖Vue各个层面的基础知识和开发技巧
 
-## Build Setup
+## 工程启动流程
 
 ``` bash
-# install dependencies
+
+# 切换到课程章节对应的分支上（重要！）
+git checkout 分支名
+
+# 安装项目依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动开发环境服务器
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![avatar](/home/picture/1.png)
